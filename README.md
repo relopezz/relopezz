@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Rita, short form of  Rita Elena!
 
-🔭 I’m currently learning Go & K8s & Observability...
+🔭 I’m currently coding with Go, learning K8s and obsessed with Observability...
 
 <!--
 **relopezz/relopezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
