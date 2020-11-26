@@ -3,7 +3,7 @@ My name is Rita, short form of  Rita Elena!
 
 🔭 I’m currently coding with Go, learning K8s and obsessed with Observability...
 
-A quick view of my resume is [here](https://relopezz.github.io/relopezz/resume.html)
+A quick view of my resume [here](https://github.com/relopezz/relopezz/raw/main/Rita%20Lopez%20Diaz%20-%20Resume%20v-102020.pdf)
 
 <!--
 **relopezz/relopezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
