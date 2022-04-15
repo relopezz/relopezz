@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Rita, short form of  Rita Elena!
 
-🔭 I’m an engineering manager who loves also to code with Go, learning K8s and obsessed with Observability...
+🔭  I’m an engineering manager who also loves to code with Go, learning K8s, and am obsessed with Observability and Documentation...
 
 A quick view of my resume [here](https://github.com/relopezz/relopezz/raw/main/Rita%20Lopez%20Diaz%20-%20Resume%20v-102020.pdf)
 
